@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://gaojun@172.16.133.140:22/home/gaojun/anaconda3/envs/pronounCoref/bin/python3" />
+        <remote-mappings server-id="python@sftp://gaojun@172.16.133.140:22/home/gaojun/anaconda3/envs/rc/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/gaojun/pronounCoref" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://gaojun@172.16.133.128:22/home/gaojun/anaconda3/envs/pronounCoref/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/gaojun/pronounCoref" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://root@ddns.hongchazn.com:6004/usr/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>

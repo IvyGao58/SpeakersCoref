@@ -1,0 +1,10 @@
+python 3.7
+tensorflow 1.13.1
+h5py
+nltk
+pyhocon
+scipy
+sklearn
+tensorboard
+protobuf
+numpy

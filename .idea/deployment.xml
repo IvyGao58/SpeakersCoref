@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="gaojun@172.16.133.128:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gaojun/pronounCoref" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaojun@172.16.133.140:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gaojun/pronounCoref/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaojun@172.16.133.141:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gaojun/pronounCoref" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaojun@ddns.hongchazn.com:6000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gaojun/SpeakersCoref" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaojun@ddns.hongchazn.com:6003">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaojun@ddns.hongchazn.com:6003 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@ddns.hongchazn.com:6004">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/home/gaojun/SpeakerCoref" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
